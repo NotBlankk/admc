@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/admc/static/css/main.eabeae65.css",
+    "main.js": "/admc/static/js/main.78fbdec2.js",
+    "static/js/453.ed3810f9.chunk.js": "/admc/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo-admc.png": "/admc/static/media/logo-admc.6c60ab930b4a53a15f9f.png",
+    "static/media/logo.svg": "/admc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/admc/index.html",
+    "main.eabeae65.css.map": "/admc/static/css/main.eabeae65.css.map",
+    "main.78fbdec2.js.map": "/admc/static/js/main.78fbdec2.js.map",
+    "453.ed3810f9.chunk.js.map": "/admc/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eabeae65.css",
+    "static/js/main.78fbdec2.js"
+  ]
+}
